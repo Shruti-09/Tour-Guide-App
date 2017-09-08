@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Chandigarh Tour Guide Project 6</string>
+    <string name="state_name">Chandigarh, The City Beautiful</string>
+    <string name="hotels_restaurants">Hotels and Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="atm">Atm locations</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="garden">Gardens</string>
+    <string name="name_text">Terraced Garden</string>
+    <string name="location_text">Sector 33 B</string>
+
+    <string name="gnt1">Terraced Garden</string>
+    <string name="gloc1">Sector 33 B</string>
+    <string name="gnt2">Japanese Garden</string>
+    <string name="gloc2">Sector 31 A</string>
+    <string name="gnt3">Zakir Hussain Rose Garden</string>
+    <string name="gloc3">Track, Sector 16 B</string>
+    <string name="gnt4">Rock Garden</string>
+    <string name="gloc4">36, Uttar Marg, Rock Garden, Sector 4</string>
+    <string name="gnt5">Garden of Silence</string>
+    <string name="gloc5">Lake Walking Way, Bhagwanpura</string>
+
+    <string name="ant1">State Bank Of India</string>
+    <string name="aloc1">PGI Sector 12</string>
+    <string name="ant2">State Bank Of India</string>
+    <string name="aloc2">SCO 103 - 106, Sector 17 B</string>
+    <string name="ant3">Canara Bank</string>
+    <string name="aloc3">SCO 311 - 312, Sector 35 B</string>
+    <string name="ant4">ICICI Bank</string>
+    <string name="aloc4">SCO 485 - 486, Sector 35 C</string>
+    <string name="ant5">Bank of Baroda</string>
+    <string name="aloc5">SCO 91, Sector 44 C</string>
+    <string name="ant6">Punjab National Bank</string>
+    <string name="aloc6">SCO 1118 - 19, Sector 22 B</string>
+    <string name="ant7">Union Bank of India</string>
+    <string name="aloc7">SCO 463/464, Sector 35 C</string>
+
+    <string name="hospitaln1">Government Medical College and Hospital</string>
+    <string name="hospitalloc1">32B, Sector 32</string>
+    <string name="hospitaln2">Fortis Hospital</string>
+    <string name="hospitalloc2">Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar</string>
+    <string name="hospitaln3">Mukat Hospital and Heart Institute</string>
+    <string name="hospitalloc3">SCO 47 - 49, Dakshin Marg, Sector 34 A</string>
+    <string name="hospitaln4">Landmark Hospital</string>
+    <string name="hospitalloc4">Site No I-II, Sector 33 C ,Opp Teerace Garden</string>
+    <string name="hospitaln5">Eden Hospital</string>
+    <string name="hospitalloc5">Plot No-115 , Phase-1, Industrial Area-1</string>
+    <string name="hospitaln6">Apollo Clinic</string>
+    <string name="hospitalloc6">SCO 170-171, Sector, Madhya Marg, 9C, Sector 9</string>
+
+    <string name="rn1">Swagath Restaurant And Bar</string>
+    <string name="rloc1">SCO, Madhya Marg, Sector 26</string>
+    <string name="rn2">Shree Rathnam</string>
+    <string name="rloc2">SCO 47, Sector 17 E</string>
+    <string name="rn3">Barbeque Nation</string>
+    <string name="rloc3">SCO 39, Madhya Marg, Block 2, Sector 26, Near Green Market Chowk"</string>
+    <string name="rn4">Brooklyn Central</string>
+    <string name="rloc4">Shop No. 51A, Elante Mall</string>
+    <string name="rn5">Virgin Courtyard</string>
+    <string name="rloc5">SCO 1A, Madhya Marg, Sector 7 C</string>
+    <string name="rn6">Pirates Of Grill</string>
+    <string name="rloc6">Shop No. 313, Third Floor, Elante Mall</string>
+    <string name="rn7">Aroma Hotel and Restaurant</string>
+    <string name="rloc7">Aroma Twin Hotel Complex, Himalaya Marg, Sector 22 C</string>
+
+    <string name="hoteln1">JW Marriott Hotel</string>
+    <string name="hotelloc1">Plot no 6, Sector 35 B, Dakshin Marg</string>
+    <string name="hoteln2">Taj Chandigarh</string>
+    <string name="hotelloc2">Block No. 9, Sector 17 A</string>
+    <string name="hoteln3">Hotel Mountview</string>
+    <string name="hotelloc3">Sector 10</string>
+    <string name="hoteln4">The Lalit</string>
+    <string name="hotelloc4">Rajiv Gandhi IT Park, DLF Commercial Complex</string>
+    <string name="hoteln5">Ramada Plaza</string>
+    <string name="hotelloc5">Ambala Chandigarh Highway, Zirakpur</string>
+    <string name="hoteln6">Hyatt Regency</string>
+    <string name="hotelloc6">178 Industrial and Business Park, Industrial Area Phase I</string>
+</resources>
